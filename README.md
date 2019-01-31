@@ -5,14 +5,4 @@
 3.http://google.com
 
 Задание 2
-<div>
- <h1>Заголовок первого уровня
-  <p>Абзац текста
-   <div>
-    <p>
-     <span style="color:red">красный текст
-      <p>
-       <b>текст с полужирными очертаниями  
-        <p>
-         <u>подчеркнутый текст
-
+https://jsfiddle.net/karaulovaveronika/Lkcdp5nh/11/
