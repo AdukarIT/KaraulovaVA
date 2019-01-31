@@ -6,6 +6,6 @@
 
 Задание 2
 
-https://jsfiddle.net/karaulovaveronika/Lkcdp5nh/65/
+https://jsfiddle.net/karaulovaveronika/Lkcdp5nh/67/
 
-https://jsfiddle.net/karaulovaveronika/Lkcdp5nh/64/
+https://jsfiddle.net/karaulovaveronika/Lkcdp5nh/71/
